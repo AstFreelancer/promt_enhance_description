@@ -1,0 +1,2 @@
+Using the extended description generate 3-5 key features of the product as a bulleted list. These can be physical dimensions, color, price category, speed etc. The answer must be in English.
+The description looks like this:

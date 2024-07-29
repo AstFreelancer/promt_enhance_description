@@ -1,0 +1,7 @@
+Analyze the customer's feedback and assign its tonality to one of four classes:
+- positive;
+- negative;
+- neutral;
+- mixed.
+Give a brief explanation of your decision. The answer must be in English.
+The review looks like this:

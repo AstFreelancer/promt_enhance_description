@@ -1,0 +1,7 @@
+Expand the product description to 100-150 words. Use high-frequency queries in the text. Specify the following aspects:
+- what is the product for;
+- how and when it can be used;
+- consumer characteristics;
+- advantages over analogues.
+The answer must be in English.
+The basic description looks like this:
